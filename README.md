@@ -18,13 +18,13 @@ Para ejecutar este proyecto, asegúrate de tener instalado lo siguiente:
 
 ## Instalación
 
-1. ##Clona este repositorio
-2.##Activar PySpark
+**1. Clona este repositorio**
+**2.Activar PySpark**
  pyspark
 
-3. ##Inicia Servidor ZeoKepper
+**3. Inicia Servidor ZeoKepper**
 sudo /opt/Kafka/bin/zookeeper-server-start.sh /opt/Kafka/config/zookeeper.properties &
 
-4.##Servidor Kafka
+**4.Servidor Kafka**
 sudo /opt/Kafka/bin/kafka-server-start.sh /opt/Kafka/config/server.properties &
 
