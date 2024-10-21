@@ -9,3 +9,21 @@ Este repositorio contiene un proyecto de análisis de datos en el que se realiza
 
 ## Estructura del Proyecto
 
+## Requisitos
+
+Para ejecutar este proyecto, asegúrate de tener instalado lo siguiente:
+
+- Python 3.x
+- Apache Spark
+- Apache Kafka
+
+## Instalación
+
+1. Clona este repositorio:
+
+2. Inicia Servidor ZeoKepper
+sudo /opt/Kafka/bin/zookeeper-server-start.sh /opt/Kafka/config/zookeeper.properties &
+
+Servidor Kafka
+sudo /opt/Kafka/bin/kafka-server-start.sh /opt/Kafka/config/server.properties &
+
