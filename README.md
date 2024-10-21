@@ -18,7 +18,7 @@ Para ejecutar este proyecto, asegúrate de tener instalado lo siguiente:
 
 ## Instalación
 
-**1. Clona este repositorio**
+**1. Clona este repositorio**  
 **2.Activar PySpark**
  pyspark
 
